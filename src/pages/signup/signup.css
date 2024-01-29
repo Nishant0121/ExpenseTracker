@@ -1,0 +1,15 @@
+
+
+
+.container{
+    margin-top: 90px;
+    flex-direction: column;
+}
+
+.btn-primary{
+    background: #0d6efd;
+}
+
+.card{
+    background: #5cdeff;
+}

@@ -1,0 +1,25 @@
+
+.add{
+    height: 100%;
+    /* display: flex; */
+    /* flex-direction: column; */
+}
+
+.inputs{
+    box-shadow: black 0px 0px 13px;
+    border-radius: 12px;
+    padding: 2rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center ;
+}
+
+.form{
+    padding: 2rem;
+    margin-top: 6rem;
+}
+.btn-success{
+    background: #198754;
+}
